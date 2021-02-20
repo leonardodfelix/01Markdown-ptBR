@@ -13,7 +13,7 @@ Os arquivos **Markdown** tem extensão `.md` ou `.markdown` (menos utilizada).
 3.  [Quebra de linha](quebra-de-linha.md)  
 4.  [Negrito e itálico](negrito-itálico.md)  
 5.  [Citação](citação.md)  
-6.  [Listas](listas.md)  
+6.  [Listas](tópicos/listas.md)  
 7.  [Código](código.md)  
 8.  [Linhas](linhas.md)  
 9.  [Links](links.md)  
