@@ -23,5 +23,5 @@ Título nível 1
 
 Título nível 2
 ----------------
-`Título nível 2`<br>
+`Título nível 2`  
 `--------------`
