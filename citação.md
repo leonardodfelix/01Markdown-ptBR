@@ -18,11 +18,11 @@ Caso a citação tenha mais de um parágrafo adicionar `>` nas linhas em branco 
 >>  *Voilà*!  
 <br>
   
-`> #### Título nível 4 do exemplo  
->  
->  Só pra constar, ***Negrálico*** não é uma palavra, mas você sabia que dá pra criar uma citação dentro de outra citação?  
->  
->>  *Voilà*!`  
+`> #### Título nível 4 do exemplo  `
+`>`
+`>  Só pra constar, ***Negrálico*** não é uma palavra, mas você sabia que dá pra criar uma citação dentro de outra citação?  `
+`>`
+`>>  *Voilà*!  `  
   
 ---
   
