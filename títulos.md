@@ -18,10 +18,10 @@ Basta adicionar o símbolo `#`na frente de uma palavra ou frase **com um espaço
 
 Título nível 1
 ==========  
-`Título nível 1`
+`Título nível 1`<br>
 `==============`
 
 Título nível 2
-----------------<br>
-`Título nível 2`
+----------------
+`Título nível 2`<br>
 `--------------`
