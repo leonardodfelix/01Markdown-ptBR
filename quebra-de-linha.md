@@ -8,6 +8,6 @@ Outras duas opções, não recomendadas por não ter suporte de algumas aplicaç
   
 ---
   
-[Próximo tópico - Quebra de linha](quebra-de-linha.md)  
+[Próximo tópico - Negrito e itálico](negrito-itálico.md)  
   
 [Voltar para o início](README.md)  
