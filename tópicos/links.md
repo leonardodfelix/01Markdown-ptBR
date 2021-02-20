@@ -26,7 +26,7 @@ Para transformar um email ou link em clicável é só coloca-los entre os sinais
 
 <br>
 
-**Obs.:** Se o link entre parênteses possuir espaços em branco no meio do URL, é recomendado substituir os espaços por `%20`
+**Obs.:** Se o link entre parênteses possuir espaços em branco no meio do URL, é recomendado substituir os espaços por `%20`.
 
 Ex.: (https://www.abc.de/super site do alfabeto) deverá ficar assim: (https://www.abc.de/super%20site%20do%20alfabeto)
 
