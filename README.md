@@ -1,4 +1,4 @@
-[![Markdown](images/markdown-mark.png "Markdown logo")](https://en.wikipedia.org/wiki/Markdown)
+[![Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg "Markdown logo")](https://en.wikipedia.org/wiki/Markdown)
   
 # O que é Markdown?  
   
