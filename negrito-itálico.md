@@ -17,6 +17,7 @@ Adicione três asteriscos `***` antes e depois para tornar um ou mais caracteres
 ***Negrálico*** é uma palavra? `***Negrálico*** é uma palavra?`  
   
 <br>
+
 **Obs.:** É possível utilizar o sublinhado `_` no lugar do asterisco `*`, mas não é recomendado por questões de compatibilidade.
   
 ---
