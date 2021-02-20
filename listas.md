@@ -99,6 +99,6 @@ Como boa prática, e por questões de compatibilidade, utilize apenas um símbol
 
 ---
   
-[Próximo tópico - Listas](listas.md)  
+[Próximo tópico - Código](código.md)  
   
 [Voltar para o início](README.md)  
