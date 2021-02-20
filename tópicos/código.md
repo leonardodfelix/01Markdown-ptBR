@@ -1,5 +1,7 @@
 # Código
 
+<br>
+
 Para demarcar uma palavra ou frase como código utilize a crase `` ` `` no início e no final.
 
 Para criar blocos de código basta adicionar 4 espaços ou 1 `Tab` antes de cada linha do bloco.
@@ -14,6 +16,7 @@ Olá `mundo`!
 
 ``Olá `mundo`! ``  
 
+<br>
 
     <html>
       <head>
@@ -27,6 +30,7 @@ Olá `mundo`!
     </html>
 ```
 
+<br>
 
 ---
   
