@@ -8,9 +8,15 @@ Para criar uma linha horizontal, use 3 ou mais asteriscos `***`, traços `---`, 
   
 ### Exemplos:  
 
+<br>
+
 ---
 
 `---`
+
+<br>
+
+**Obs.:** Adicione uma linha em branco antes e depois da linha criada.
 
 <br>
 
