@@ -10,4 +10,4 @@ Os arquivos **Markdown** tem extensão `.md` ou `.markdown` (menos utilizada).
 
 ## Tópicos
 
-1. [Títulos](/Tópicos/títulos.md)
+1. [Títulos](títulos.md)
