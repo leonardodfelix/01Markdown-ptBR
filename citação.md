@@ -5,6 +5,7 @@ Caso a citação tenha mais de um parágrafo adicionar `>` nas linhas em branco 
 É possível adicionar outros elementos dentro da citação.  
   
 <br>
+  
 ### Exemplos:  
   
 > #### Título nível 4 do exemplo  
