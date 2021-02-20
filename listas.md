@@ -65,6 +65,37 @@ Como boa prática, e por questões de compatibilidade, utilize apenas um símbol
 
 <br>
 
++ Item 1
++ Item 2
++ Item 3
+
+<br>
+
+```
++ Item 1
++ Item 2
++ Item 3
+```
+
+<br>
+
+- Item 1
+- Item 2
+  - Item 2.1
+  - Item 2.1
+- Item 3
+
+<br>
+
+```
+- Item 1
+- Item 2
+  - Item 2.1
+  - Item 2.1
+- Item 3
+```
+
+<br>
 
 ---
   
