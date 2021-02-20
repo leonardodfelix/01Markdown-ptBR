@@ -2,7 +2,7 @@
 
 <br>
 
-HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto", é aceita por muitas aplicações em textos markdown. Ajuda principalmente para manipular o tamanho de uma imagem ou alterar a cor de um texto.  
+HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto", é aceita por muitas aplicações em textos markdown. Ajuda principalmente para manipular o tamanho de uma imagem ou alinhamento do texto.  
 
 Uma boa prática é separar os blocos de código HTML por uma linha em branco. Cuidados também com a indentação do código pois pode afetar formatação.  
 
@@ -20,9 +20,9 @@ A formatação markdown **não** funciona dentro do HTML.
 
 <br>
 
-<h3 color="red">Título vermelho</h3>  
+<p align="center">Parágrafo alinhado ao centro.</p>  
 
-`<h3 color="red">Título vermelho</h3>`  
+`<p align="center">Parágrafo alinhado ao centro.</p>`  
 
 <br>
 
