@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="markdown-mark.png" alt="Markdown" />
+  <img src="markdown-mark.png" alt="Markdown" width="240px"/>
 </h1>
 
 # O que é Markdown?
