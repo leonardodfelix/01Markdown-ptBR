@@ -12,7 +12,7 @@ Basta adicionar o símbolo `#`na frente de uma palavra ou frase **com um espaço
 `### Título nível 3`
 
 #### Título nível 4
-`#### Título nível 4`
+`#### Título nível 4`<br>
 <br>
 **Obs.:** Para o nível 1 e 2 também é possível utilizar os símbolos `==`, para o nível 1, e `--`, para o nível 2 na linha abaixo do título.
 
