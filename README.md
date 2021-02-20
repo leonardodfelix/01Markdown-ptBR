@@ -1,2 +1,13 @@
-# Markdown-pt-BR
-Definição e sintaxe de arquivos Markdown
+<h1 align="center">
+  <img src="/imagens/markdown-mark.png" alt="Markdown" width="120px" />
+</h1>
+
+# O que é Markdown?
+
+É um estilo de texto onde as marcações são utilizadas para formatar as palavras, criar listas, adicionar imagens, exibir links, etc... ou seja, é um documento com texto e caracteres especiais com funções especiais.
+
+Os arquivos **Markdown** tem extensão `.md` ou `.markdown` (menos utilizada).
+
+## Tópicos
+
+1. [Títulos](/Tópicos/títulos.md)
