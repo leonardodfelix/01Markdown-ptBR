@@ -5,7 +5,8 @@ Adicione dois asteriscos `**` antes e depois para tornar um ou mais caracteres *
 Adicione um asterisco `*` antes e depois para tornar um ou mais caracteres *itálico*.
 
 Adicione três asteriscos `***` antes e depois para tornar um ou mais caracteres ***negrito e itálico***.
-
+  
+<br>
 ### Exemplos:  
   
 É fácil assim deixar essa **palavra** negritada. `É fácil assim deixar essa **palavra** negritada.`  
