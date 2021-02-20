@@ -1,6 +1,6 @@
 # Quebra de linha  
 
-Adicionar dois espaços no final da frase, conhecido como *trailing whitespace*, e apertar `Enter`.  
+Adicionar **dois espaços no final da frase**, conhecido como *trailing whitespace*, e apertar `Enter`.  
   
 Outra opção é utilizar a tag do HTML `<br>`.  
   
