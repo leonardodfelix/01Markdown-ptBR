@@ -1,7 +1,9 @@
 # Citação  
 
 Colocar o símbolo de **maior que** `>` na frente de um ou mais parágrafos.  
+
 Caso a citação tenha mais de um parágrafo adicionar `>` nas linhas em branco também.  
+
 É possível adicionar outros elementos dentro da citação.  
   
 <br>
