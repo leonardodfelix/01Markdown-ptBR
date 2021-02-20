@@ -1,8 +1,9 @@
 # Títulos (Headings)  
 
 <br>
+
 Basta adicionar o símbolo `#` na frente de uma palavra ou frase **com um espaço após o** `#` . O número de sinais vai corresponder ao nível do cabeçalho (de 1 até 6).  
-<br>
+
 <br>
 
 # Título nível 1  
