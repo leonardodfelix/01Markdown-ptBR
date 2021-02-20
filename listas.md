@@ -17,11 +17,11 @@ Deve sempre ser iniciada com o número um seguido de um ponto `1.` e pode ou nã
 3. Terceiro item  
 
 <br>
-
+```
 1. Primeiro item  
-1. Segundo item  
-1. Terceiro item  
-
+2. Segundo item  
+3. Terceiro item  
+```
 <br>
 
 1. Primeiro item  
@@ -29,6 +29,11 @@ Deve sempre ser iniciada com o número um seguido de um ponto `1.` e pode ou nã
 13. Terceiro item  
 
 <br>
+```
+1. Primeiro item  
+5. Segundo item  
+13. Terceiro item  
+```
 
 ## Listas não ordenadas  
 
