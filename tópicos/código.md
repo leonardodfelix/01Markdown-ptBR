@@ -36,4 +36,4 @@ Olá `mundo`!
   
 [Próximo tópico - Linhas](linhas.md)  
   
-[Voltar para o início](README.md)  
+[Voltar para o início](../README.md)  
