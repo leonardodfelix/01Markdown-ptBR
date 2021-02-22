@@ -10,4 +10,4 @@ Outras duas opções, não recomendadas por não ter suporte de algumas aplicaç
   
 [Próximo tópico - Negrito e itálico](negrito-itálico.md)  
   
-[Voltar para o início](README.md)  
+[Voltar para o início](../README.md)  
