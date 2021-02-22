@@ -24,4 +24,4 @@ Adicione três asteriscos `***` antes e depois para tornar um ou mais caracteres
   
 [Próximo tópico - Citação](citação.md)  
   
-[Voltar para o início](README.md)  
+[Voltar para o início](../README.md)  
