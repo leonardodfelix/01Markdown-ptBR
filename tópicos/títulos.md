@@ -38,4 +38,4 @@ Título nível 2
   
 [Próximo tópico - Parágrafos](parágrafos.md)  
   
-[Voltar para o início](README.md)  
+[Voltar para o início](../README.md)  
