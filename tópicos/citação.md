@@ -31,4 +31,4 @@ Caso a citação tenha mais de um parágrafo adicionar `>` nas linhas em branco 
   
 [Próximo tópico - Listas](listas.md)  
   
-[Voltar para o início](README.md)  
+[Voltar para o início](../README.md)  
