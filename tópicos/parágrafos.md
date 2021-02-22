@@ -8,4 +8,4 @@ Não indentar com espaços ou tabulações, ou seja, não coloque espaços em br
   
 [Próximo tópico - Quebra de linha](quebra-de-linha.md)  
   
-[Voltar para o início](README.md) 
+[Voltar para o início](../README.md) 
