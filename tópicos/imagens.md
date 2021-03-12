@@ -23,6 +23,6 @@ Resumindo: `[![Descrição](URL ou local da imagem)](Link de destino ao clicar)`
 
 ---  
   
-[Próximo tópico - Caracteres especiais](tópicos/caracteres-especiais.md)  
+[Próximo tópico - Caracteres especiais](caracteres-especiais.md)  
   
 [Voltar para o início](../README.md)  
