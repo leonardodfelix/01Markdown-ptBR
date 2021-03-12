@@ -28,6 +28,6 @@ Para mostrar a crase dentro da formatação de código é só usar duas crases `
 
 ---  
   
-[Próximo tópico - HTML](tópicos/HTML.md)  
+[Próximo tópico - HTML](HTML.md)  
   
 [Voltar para o início](../README.md)  
